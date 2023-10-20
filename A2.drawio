@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T08:53:07.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UDvG4qHe5kTNtYi-bb8i" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T08:54:56.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TkK1a3djjc7845LmLnhI" version="22.0.5" type="github">
   <diagram name="Страница — 1" id="UH5BMYs6y5BwK-w0jCb2">
     <mxGraphModel dx="1290" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWwd_5JF9ffe_0GtDZmV-12" value="Список заказанных услуг" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kWwd_5JF9ffe_0GtDZmV-12" value="Договор" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="70" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kWwd_5JF9ffe_0GtDZmV-18" value="Материалы и &lt;br&gt;инструменты &lt;br&gt;готовы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
