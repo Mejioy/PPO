@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T08:50:57.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="c6hYZk9rpE3lZe1Nd3AT" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T08:54:43.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="PxXkR5ZQawRh6oTuVB6_" version="22.0.5" type="github">
   <diagram name="Страница — 1" id="DNMvd5dhDP0ZgoRwr1V2">
-    <mxGraphModel dx="1564" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2345" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="37RLYazfFerKv1l8wogr-30" value="Приемка работы&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="520" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="20GTolLZ2_xDN0YHXDCN-9" value="Список заказанных услуг" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="20GTolLZ2_xDN0YHXDCN-9" value="Договор" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="230" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="20GTolLZ2_xDN0YHXDCN-10" value="Заказ готов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -93,18 +93,6 @@
             <mxPoint x="-100" y="230" as="sourcePoint" />
             <mxPoint x="80" y="230" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WZMtwQCxnaZo9OExtr6U-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="37RLYazfFerKv1l8wogr-28" target="37RLYazfFerKv1l8wogr-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="230" />
-              <mxPoint x="320" y="150" />
-              <mxPoint x="255" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WZMtwQCxnaZo9OExtr6U-25" value="Осмотр&lt;br&gt;внешнего вида автомобиля" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
