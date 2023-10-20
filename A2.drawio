@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T08:38:01.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KytlmogrkaPNl1OK7NWi" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T08:53:07.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UDvG4qHe5kTNtYi-bb8i" version="22.0.5" type="github">
   <diagram name="Страница — 1" id="UH5BMYs6y5BwK-w0jCb2">
     <mxGraphModel dx="1290" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         <mxCell id="kWwd_5JF9ffe_0GtDZmV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWwd_5JF9ffe_0GtDZmV-19" target="kWwd_5JF9ffe_0GtDZmV-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="560" />
+              <mxPoint x="350" y="560" />
               <mxPoint x="215" y="560" />
             </Array>
           </mxGeometry>
@@ -76,21 +76,22 @@
         <mxCell id="kWwd_5JF9ffe_0GtDZmV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWwd_5JF9ffe_0GtDZmV-19" target="kWwd_5JF9ffe_0GtDZmV-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="560" />
-              <mxPoint x="350" y="560" />
+              <mxPoint x="350" y="580" />
+              <mxPoint x="350" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kWwd_5JF9ffe_0GtDZmV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWwd_5JF9ffe_0GtDZmV-19" target="kWwd_5JF9ffe_0GtDZmV-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="560" />
+              <mxPoint x="350" y="610" />
+              <mxPoint x="350" y="560" />
               <mxPoint x="480" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kWwd_5JF9ffe_0GtDZmV-19" value="Сотрудник" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="610" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kWwd_5JF9ffe_0GtDZmV-26" value="Изменение &lt;br&gt;статуса &lt;br&gt;заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="470" width="90" height="60" as="geometry" />
