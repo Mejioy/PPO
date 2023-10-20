@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T07:48:00.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AwXLHWgTmRVd77h2HZLc" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T08:01:03.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UFKbZ0npXc-7-rJipiG4" version="22.0.5" type="github">
   <diagram name="Страница — 1" id="yh4e-zj951A9Xb1wQFh0">
     <mxGraphModel dx="1313" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rchWkLcniJHJo5OMW7Qn-1" value="Марка" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="285" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rchWkLcniJHJo5OMW7Qn-2" value="Модель" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="425" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rchWkLcniJHJo5OMW7Qn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rchWkLcniJHJo5OMW7Qn-3" target="rchWkLcniJHJo5OMW7Qn-4">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rchWkLcniJHJo5OMW7Qn-6" value="Гос. номер" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="565" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rchWkLcniJHJo5OMW7Qn-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rchWkLcniJHJo5OMW7Qn-7" target="rchWkLcniJHJo5OMW7Qn-5">
           <mxGeometry relative="1" as="geometry" />
