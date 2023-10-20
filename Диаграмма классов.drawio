@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T05:46:11.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.5" etag="79va3pdXDlS-n-66J_SN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T06:10:45.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="paiGHJ7N5Es2D_V4t02C" version="22.0.5" type="github">
   <diagram name="Страница — 1" id="G1I-6y7RzBWqB7RcNpnC">
-    <mxGraphModel>
+    <mxGraphModel dx="1075" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-24" value="Клиент" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-26" value="Фамилия" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-24">
+          <mxGeometry x="2" y="23" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-28" value="Имя" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-24">
+          <mxGeometry x="-1" y="53" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-29" value="Отчество" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-24">
+          <mxGeometry x="-2" y="83" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-30" value="Номер телефона" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-24">
+          <mxGeometry y="113" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-31" value="Автомобиль" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-32" value="Марка" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-31">
+          <mxGeometry y="23" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-33" value="Модель" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-31">
+          <mxGeometry x="-2" y="53" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-34" value="Гос.номер" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-31">
+          <mxGeometry y="83" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-40" value="Сотрудник" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-41" value="Фамилия" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-40">
+          <mxGeometry x="2" y="23" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-42" value="Имя" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-40">
+          <mxGeometry x="-1" y="53" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-43" value="Отчество" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-40">
+          <mxGeometry x="-2" y="83" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-44" value="Номер телефона" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-40">
+          <mxGeometry y="113" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-45" value="Город" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-40">
+          <mxGeometry x="-1" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-47" value="Номер дома" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-40">
+          <mxGeometry x="2" y="203" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-46" value="Улица" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-40">
+          <mxGeometry y="173" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-48" value="Номер квартиры" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-40">
+          <mxGeometry x="-1" y="233" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-51" value="Услуга" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="300" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-52" value="Название" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-51">
+          <mxGeometry x="-1" y="23" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-53" value="Длительность" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-51">
+          <mxGeometry x="2" y="53" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-54" value="Стоимость" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-51">
+          <mxGeometry x="2" y="83" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddCmk3O-23ZYapd7_aQz-55" value="Тип" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ddCmk3O-23ZYapd7_aQz-51">
+          <mxGeometry x="2" y="113" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
